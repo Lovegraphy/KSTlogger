@@ -14,18 +14,11 @@ KSTLogger is a simple keylogging tool written in Python. It captures and logs ke
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/KSTLogger.git
+    git clone https://github.com/lovegraphy/KSTLogger.git
     cd KSTLogger
     ```
 
-2. **Create and activate a virtual environment (optional but recommended):**
-
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install the dependencies:**
+2. **Install the dependencies:**
 
     ```sh
     pip install -r requirements.txt
@@ -36,7 +29,7 @@ KSTLogger is a simple keylogging tool written in Python. It captures and logs ke
 1. **Run the keylogger:**
 
     ```sh
-    python keylogger.py
+    python KSTlogger.py
     ```
 
 2. **Use the menu to start keylogging, stop keylogging, locate the log file, or exit the program.**
@@ -44,5 +37,7 @@ KSTLogger is a simple keylogging tool written in Python. It captures and logs ke
 ## Example
 
 When you start the program, you will see a menu like this:
+![Screenshot (80)](https://github.com/Lovegraphy/KSTlogger/assets/108510677/a861b07a-6f7c-4ac6-b635-39da88682978)
+
 
 
